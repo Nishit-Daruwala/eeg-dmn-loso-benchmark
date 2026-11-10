@@ -1,0 +1,14 @@
+{
+  "transformer_T1": 589538,
+  "transformer_T2": 589538,
+  "transformer_T3": 97954,
+  "transformer_T4": 97954,
+  "transformer_T5": 97954,
+  "transformer_T6": 25250,
+  "mlp_M1": 814081,
+  "mlp_M2": 814081,
+  "mlp_M3": 197377,
+  "mlp_M4": 197377,
+  "mlp_M5": 197377,
+  "mlp_M6": 98177
+}

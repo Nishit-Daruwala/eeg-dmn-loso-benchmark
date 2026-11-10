@@ -1,0 +1,13 @@
+{
+  "python": "3.13.18",
+  "numpy": "2.4.6",
+  "scipy": "1.16.3",
+  "sklearn": "1.6.1",
+  "torch": "2.14.1+cpu",
+  "cuda": null,
+  "device": "cpu",
+  "gpu": null,
+  "v1_dir": "/content/drive/MyDrive/Research_Dataset/Outputs",
+  "out_dir": "/content/drive/MyDrive/Research_Dataset/Outputs_V2",
+  "smoke_test": false
+}

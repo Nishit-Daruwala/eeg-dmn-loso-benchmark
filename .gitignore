@@ -1,0 +1,12 @@
+# dataset and regenerated outputs
+NATVIEW/
+EEG2DMN_UnifiedLOSO_v1_outputs*/
+Outputs_v2*/
+cache/
+# environment and secrets
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+kaggle.json
+.env
